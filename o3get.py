@@ -6,10 +6,13 @@ import re
 import threading
 import platform
 
+
+# *	 Version 5.1           *
 # ******************************
 # * (c) 2024 - openw3rk        *
 # * (c) 2024 - openw3rk INVENT *
 # ****************************** 
+
 
 def install(package):
     import subprocess
